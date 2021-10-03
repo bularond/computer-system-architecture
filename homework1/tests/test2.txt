@@ -1,0 +1,7 @@
+1 red 0 0 1 1
+1 orange 0 0 1 1
+1 yellow 0 0 1 1
+1 green 0 0 1 1
+1 blue 0 0 1 1
+1 indigo 0 0 1 1
+1 violet 0 0 1 1
