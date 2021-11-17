@@ -32,6 +32,10 @@ shape::shape() {
 shape::shape(colour colour) : colour_(colour) {
 }
 
+shape::colour shape::GetColour() {
+    return colour_;
+}
+
 
 #if 0
 shape* shape::In(std::istream &stream) {

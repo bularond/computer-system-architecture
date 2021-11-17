@@ -9,7 +9,7 @@
 
 class rectangle : public shape {
 public:
-    rectangle(shape::colour);
+    explicit rectangle(shape::colour);
 
     explicit rectangle(shape::colour, std::istream &in);
     double Perimeter() const override;

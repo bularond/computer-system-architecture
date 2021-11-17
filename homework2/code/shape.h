@@ -23,6 +23,8 @@ public:
     // Абстрактный метод подсчета периметра
     virtual double Perimeter() const = 0;
 
+    colour GetColour();
+
 protected:
     colour colour_;
 };

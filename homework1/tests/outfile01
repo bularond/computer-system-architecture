@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+0: Color orange. It is Rectangle: a = (16, 19), b = (30, 32). Perimeter = 54
+1: Color green. It is Rectangle: a = (6, 13), b = (23, 31). Perimeter = 70
+2: Color red. It is Rectangle: a = (14, 3), b = (34, 23). Perimeter = 80
+3: Color yellow. It is Triangle: a = (10, 3), b = (1, 1), c = (18, 21). Perimeter = 53.4566
+4: Color yellow. It is Rectangle: a = (6, 8), b = (8, 13). Perimeter = 14
+5: Color green. It is Rectangle: a = (3, 5), b = (4, 24). Perimeter = 40
+6: Color green. It is Rectangle: a = (11, 4), b = (27, 8). Perimeter = 40
+7: Color indigo. It is Rectangle: a = (7, 11), b = (27, 27). Perimeter = 72
+8: Color red. It is Triangle: S = (18, 10), R = 4. Perimeter = 25.1327
+9: Color green. It is Rectangle: a = (11, 4), b = (13, 22). Perimeter = 40

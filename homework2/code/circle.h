@@ -12,11 +12,11 @@ private:
     point centre_;
 
 public:
-    circle();
+    circle(shape::colour colour);
 
-    circle(int radius, point centre);
+    circle(shape::colour colour, int radius, point centre);
 
-    explicit circle(std::istream &in);
+    explicit circle(shape::colour colour, std::istream &in);
 
     void Out(std::ostream &out) const override;
 
